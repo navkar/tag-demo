@@ -1,1 +1,2 @@
 This is line 1. We need to tag this ASAP
+This is another line and I need this to be tagged
